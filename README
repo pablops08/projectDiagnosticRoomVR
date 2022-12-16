@@ -1,4 +1,3 @@
-This repository is used to stored some codes from A Diagnostic Room that reproduce in a VR environment a human gait obtained from an Intelligent
-Space.
+The focus of this repository is to store some codes from a Virtual Diagnostic Room for reproducing and diagnosing human gait.
 CODE STORED:
 1 - Classifier Training and Testing Script using Keras, Sklearn, etc. (Python Language)
